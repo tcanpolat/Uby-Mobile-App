@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
     // flexDirenction:'row',
     justifyContent: 'space-between',
     alignContent: 'center',
-    backgroundColor: '#f00',
+    backgroundColor: '#f50',
   },
   backgroundStyle: {
     color: 'red',
