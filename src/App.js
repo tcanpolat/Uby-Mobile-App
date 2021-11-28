@@ -19,7 +19,7 @@ import {styles} from './style';
 import Routes from './navigation/routes';
 
 /*
- aboutreact.com
+  aboutreact.com
 
 */
 export default App = () => {
